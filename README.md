@@ -68,7 +68,8 @@ The original Color Palette will also be extracted from this image and can be use
 
 ## Future Plans
 * Implement a much faster Algorithm to Get and Swap Palettes
-* 
+* Save Palette as a Palette Strip
+* Added option to use a Palette png to change colours of Source Texture
 
 ## Credits
 
