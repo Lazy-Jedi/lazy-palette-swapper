@@ -105,8 +105,8 @@ namespace Uee.PaletteSwapper
         {
             EditorGUILayout.Space(32f);
             EditorGUILayout.LabelField("Lazy Palette Swapper", _titleLabel);
-            EditorGUILayout.Space(16f);
-            EditorGUILayout.LabelField("Warning - This tool is not meant for Images with tons of different colors.", _centeredLabel);
+            EditorGUILayout.Space(20f);
+            EditorGUILayout.LabelField("Warning - This tool was designed for Pixel Art and not for extremely detailed Images.\nYou can try, but you have been warned!", _centeredLabel);
         }
 
         private void DrawSourceTexture()
