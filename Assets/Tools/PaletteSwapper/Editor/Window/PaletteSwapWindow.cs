@@ -360,7 +360,7 @@ namespace Uee.PaletteSwapper
                 {
                     alignment = TextAnchor.MiddleCenter,
                     fontSize = 64,
-                    font = Resources.Load<Font>("kenney-fonts/KenneyMiniSquare")
+                    font = Resources.Load<Font>("kenney-fonts/MiniSquare")
                 };
                 _titleLabel.normal.textColor = EditorGUIUtility.isProSkin ? Color.white : Color.black;
             }
@@ -371,7 +371,7 @@ namespace Uee.PaletteSwapper
                 {
                     alignment = TextAnchor.MiddleCenter,
                     fontSize = 24,
-                    font = Resources.Load<Font>("kenney-fonts/KenneyMiniSquare")
+                    font = Resources.Load<Font>("kenney-fonts/MiniSquare")
                 };
                 _headerLabel.normal.textColor = EditorGUIUtility.isProSkin ? Color.white : Color.black;
             }
